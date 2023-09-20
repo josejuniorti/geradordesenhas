@@ -90,6 +90,7 @@
     border-radius: 4px;
     font-size:1.10rem;
     transition: transform 0.5s;
+    width:90%;
   }
   .password:hover{
     transform: scale(1.05);
