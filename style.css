@@ -36,11 +36,13 @@
   .container-input span {
     color: #748802;
     font-size: 22px;
+    text-align:center;
+    font-weight:bold;
   }
   
   .slider {
     -webkit-appearance: none;
-    width: 100%;
+    width: 90%;
     height: 18px;
     border-radius: 15px;  
     background-color: #b5d401;
@@ -50,6 +52,7 @@
   
   .button-cta{
     height: 40px;
+    width:90%;
     background: #404b01;
     border:0;
     border-radius: 4px;
